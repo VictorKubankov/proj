@@ -6,7 +6,7 @@ public class MainApplication {
         System.out.println("Hello World!");
         System.out.println("10001");
         System.out.println("22222");
-        System.out.println("33333");
+        System.out.println("---");
     }
     public static void doSomething() {
         System.out.println("0");
